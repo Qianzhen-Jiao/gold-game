@@ -1,2 +1,12 @@
 # gold-game
-python
+### env
+python3.8
+
+you need to install pygame by use: pip3 install pygame
+
+### how to play?
+1⃣️ open main.py and run it.<br>
+2⃣️ press the button q to end.<br>
+3⃣️ press the button space to restart.<br>
+4⃣️ press the button <- and -> to control the box to run.
+
